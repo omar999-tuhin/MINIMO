@@ -1,0 +1,142 @@
+
+
+.header{
+    width: 100%;
+}
+.header .logo{
+    width: 30%;
+    float: left;
+    padding: 22px 0px 4px 0px;
+}
+.header .logo img{
+    width: 100px;
+    padding: 1px;
+    margin-left: 25px;
+}
+.header .menu{
+    padding: 0px;
+    text-align: right;
+}
+.header .menu ul{
+    list-style: none;
+}
+.header .menu ul li{
+    display: inline-block;
+    padding: 20px;
+}
+.header .menu ul li a{
+    text-decoration: none;
+    text-transform: uppercase;
+    color: black;
+}
+
+.baner{
+    padding: 0px 25px;
+}
+.baner img{
+    width: 100%;
+    /* margin: 25px 25px; */
+}
+.container_section{
+    margin: 0px;
+    display: block;
+}
+
+.PHOTODIARY{
+    padding: 0px 25px;
+    /* margin: 25px; */
+}
+.container p{
+    color: #3b3e3e;
+    font-size: 18px;
+    padding: 0px 30px;
+}
+   
+.container h1{
+    color: #735f3a;
+    padding: 0px 30px;
+}
+.container_section1{}
+.portfolio1{
+    /* max-width: 100%; */
+    float: left;
+    width: 33.33%;
+    padding: 0px 50px;
+    box-sizing: border-box;
+}
+.portfolio1 img{
+    padding:  0px;
+    /* margin: 10px; */
+    max-width: 100%;
+}
+.paragraph2{
+    float: left;
+    width: 33.33%;
+    padding: 0px 50px;
+    box-sizing: border-box;
+}
+
+.paragraph2 h1{
+    letter-spacing: px;
+    color: #756577;
+}
+.paragraph2 h4{
+    color: gray;
+    letter-spacing: 3px;
+}
+.paragraph2 p{
+    font-size: 20px;
+}
+.container_section2{}
+.portfolio2{
+    width: 33.33%;
+    float: left;
+    padding: 0px 50px;
+    box-sizing: border-box;
+}
+.portfolio2 img{
+    max-width: 100%;
+}
+
+.paragraph3{
+    width: 33.33%;
+    float: left;
+    padding: 0px 50px;
+    box-sizing: border-box;
+}
+.paragraph3 h4{
+    letter-spacing: 3px;
+    color: #b7adbf;
+}
+.paragraph3 h1{
+    color: #4f3c50;
+}
+.paragraph3 p{
+    font-size: 20px;
+}
+.footer{
+    margin-top: 100px;
+    width: 100%;
+    display: block;
+    overflow: hidden;
+    padding: 20px 0px;
+    box-sizing: border-box;
+    background-color: #F0F0F0;
+}
+.inner_footer{
+    display: block;
+    /* margin: 20px 0px; */
+    width: 1100px;
+    color: black;
+}
+.footer_third{}
+.footer_third a{}
+.footer_right{float: right;margin: -32px 32px;color: black;}
+.footer_right a{
+    padding-left: 20px;
+    align-content: flex-end;
+    margin-block-end: 20px;
+}
+.footer_right h4{
+    display: inline-block;
+}
